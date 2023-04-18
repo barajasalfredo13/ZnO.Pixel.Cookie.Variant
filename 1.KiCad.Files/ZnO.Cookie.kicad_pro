@@ -217,7 +217,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../StepFiles/Collection.Readout.Board.step",
+      "step": "../2.Fusion360/StencilStepFile/Pixel.Cookie.Board.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
